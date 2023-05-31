@@ -5,7 +5,7 @@ Log:
 DnsConfigPath: # ./dns.json Path to dns config 
 Nodes:
   -
-    PanelType: "NewV2board" # Panel type: SSpanel, V2board
+    PanelType: “V2board" # Panel type: SSpanel, V2board
     ApiConfig:
       ApiHost: "https://uiu1.com" # 修改这里
       ApiKey: "dsgrtujtykijryFGDGD3rwerq" # 修改这里
